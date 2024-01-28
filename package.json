@@ -1,0 +1,11 @@
+{
+  "name": "task4b",
+  "version": "1.0.0",
+  "description": "Using ES6+ classes to prepare code that computes descriptive statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Obinna",
+  "license": "ISC"
+}
